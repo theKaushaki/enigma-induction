@@ -59,8 +59,7 @@ git push origin main
 ### **6. Create a Pull Request**
 1. Go to the **Pull Requests** tab on GitHub
 2. Click **"New Pull Request"**
-3. Write a meaningful description
-4. Click **"Create Pull Request"**
+3. Click **"Create Pull Request"**
 
 <div align="center">
   <img src="../../assets/pr.png" alt="Pull Request Example" width="80%">
