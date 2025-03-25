@@ -16,7 +16,7 @@ In this task, you'll learn the basics of **Git** and **GitHub** — essential sk
 
 ## 💻 **Task Steps**
 
-<font color="#43A31D" size="4">**1. Clone the Repository**</font>
+### **1. Clone the Repository**
 1. Go to your forked repository
 2. Click on **Clone** and copy the repo address
 3. Open Git Bash in your desired folder
@@ -29,7 +29,7 @@ In this task, you'll learn the basics of **Git** and **GitHub** — essential sk
   <img src="../../assets/clone.png" alt="Clone Example" width="80%">
 </div>
 
-<font color="#43A31D" size="4">**2. Create Your Profile File**</font>
+### **2. Create Your Profile File**
 1. Navigate to `Open_Source/Task` directory
 2. Create a new text file: `yourname.txt`
 3. Include the following details:
@@ -41,22 +41,22 @@ In this task, you'll learn the basics of **Git** and **GitHub** — essential sk
 
 For reference, see the file [Dharmendra_Mahanta.txt](Dharmendra_Mahanta.txt) in the Task folder.
 
-<font color="#43A31D" size="4">**3. Stage Your Changes**</font>
+### **3. Stage Your Changes**
 ```bash
 git add .
 ```
 
-<font color="#43A31D" size="4">**4. Commit Your Changes**</font>
+### **4. Commit Your Changes**
 ```bash
 git commit -m "Completed Git Task"
 ```
 
-<font color="#43A31D" size="4">**5. Push to GitHub**</font>
+### **5. Push to GitHub**
 ```bash
 git push origin main
 ```
 
-<font color="#43A31D" size="4">**6. Create a Pull Request**</font>
+### **6. Create a Pull Request**
 1. Go to the **Pull Requests** tab on GitHub
 2. Click **"New Pull Request"**
 3. Write a meaningful description

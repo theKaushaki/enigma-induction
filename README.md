@@ -34,7 +34,7 @@ The induction process will run for **Two weeks** starting from **27th April 2025
 
 ### ✅ **Week 1 (27th - 30th March) | Open Source** <img src="./assets/open-source.gif" width="50">  
 Kick off your journey by mastering the basics of **Git & GitHub**. All necessary resources will be provided.  
-- [👉 Task 1: Git Basics](./Open_Source/README.md)
+- [👉 Task: Git Basics](./Open_Source/README.md)
 
 ---
 

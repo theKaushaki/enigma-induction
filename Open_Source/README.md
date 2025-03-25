@@ -14,7 +14,7 @@ Git is the most commonly used version control system. It tracks changes made to 
    - ✅ **Select "Override the default branch name for new repositories."**  
    - ✅ Type **"main"** in the box. 
 
-      <img src="../assets/main-branch.png" width="200">
+      <img src="../assets/main-branch.png" width="400">
 3. Click **Next** and complete the installation.  
 
 ---
