@@ -26,7 +26,7 @@ GitHub is a cloud-based Git repository hosting service. It allows individuals an
 
 ## 🎯 **How to Get Started**  
 To get familiar with Git and GitHub, you can refer to this YouTube playlist:  
-➡️ [Git & GitHub Crash Course](https://youtube.com/playlist?list=PLRAV69dS1uWT4v4iK1h6qejyhGObFH9_o&si=zdRyuxQ5n_bK8pw2)  
+➡️ [Git & GitHub Playlist](https://youtube.com/playlist?list=PLRAV69dS1uWT4v4iK1h6qejyhGObFH9_o&si=zdRyuxQ5n_bK8pw2)  
 
 ---
 

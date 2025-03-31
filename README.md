@@ -19,7 +19,7 @@ Inductions are not just tests — they are about learning, improving, and showca
 We will be conducting a Bootcamp on **Git & GitHub** and **C++** to strengthen your foundational skills and introduce you to essential tools and concepts.  
 
 ### 2. **Assessment** 🏹  
-Complete and submit the tasks provided during the workshops. Your submissions will be evaluated to measure your progress.  
+Complete and submit the tasks provided during this process. Your submissions will be evaluated to measure your progress.  
 - **All tasks will have their own guidelines** to ensure clarity and consistency.  
 - **Each task will have its own deadline** to keep the process structured and on track.  
 
@@ -29,16 +29,16 @@ Candidates who perform well in the tasks will advance to a personal interview ro
 ---
 
 ## 📅 **Schedule Overview**  
-The induction process will run for **Two weeks** starting from **27th April 2025**. Here's the breakdown:  
+The induction process will run for **Two weeks** starting from **31st March 2025**. Here's the breakdown:  
 ---
 
-### ✅ **Week 1 (27th - 30th March) | Open Source** <img src="./assets/open-source.gif" width="50">  
+### ✅ **Week 1 (31st March - 2nd April) | Open Source** <img src="./assets/open-source.gif" width="50">  
 Kick off your journey by mastering the basics of **Git & GitHub**. All necessary resources will be provided.  
 - [👉 Task: Git Basics](./Open_Source/README.md)
 
 ---
 
-### 🌐 **Week 2 (31st March - 5th April) | Domain Wise Task** <img src="./assets/web-dev.gif" width="50">  
+### 🌐 **Week 2 (2nd - 9th April) | Domain Wise Task** <img src="./assets/web-dev.gif" width="50">  
 Explore the world of **Web Development**, **App Development**, and **AI/ML** by diving into foundational concepts and hands-on tasks. 
 
 #### 🚀 **Web Development**  
