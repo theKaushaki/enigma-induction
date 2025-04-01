@@ -38,12 +38,12 @@ Kick off your journey by mastering the basics of **Git & GitHub**. All necessary
 
 ---
 
-### 🌐 **Week 2 (3rd - 9th April) | Domain Wise Task** <img src="./assets/web-dev.gif" width="50">  
+### 🌐 **Week 2 (4th - 9th April) | Domain Wise Task** <img src="./assets/web-dev.gif" width="50">  
 Explore the world of **Web Development**, **App Development**, and **AI/ML** by diving into foundational concepts and hands-on tasks. 
 
 #### 🚀 **Web Development**  
 Learn the basics of **HTML**, **CSS** to create responsive web pages.  
-- [👉 Task: Comming Soon]()  
+- [👉 Task: Coming Soon]()  
 ---
 #### 📱 **App Development**  
 Explore **Kotlin** to build native Android apps.  
@@ -53,7 +53,7 @@ Explore **Kotlin** to build native Android apps.
 
 #### 🤖 **AI/ML**  
 Understand the basics of **Python** and explore the domain of AI/ML.  
-- [👉 Task: Comming Soon]()  
+- [👉 Task: Coming Soon]()  
 
 ---
 
