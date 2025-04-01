@@ -29,7 +29,7 @@ Candidates who perform well in the tasks will advance to a personal interview ro
 ---
 
 ## 📅 **Schedule Overview**  
-The induction process will run for **Two weeks** starting from **31st March 2025**. Here's the breakdown:  
+The induction process will run for **Two weeks** starting from **1st April 2025**. Here's the breakdown:  
 ---
 
 ### ✅ **Week 1 (1st April - 3rd April) | Open Source** <img src="./assets/open-source.gif" width="50">  
