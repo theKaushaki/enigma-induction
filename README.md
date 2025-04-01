@@ -52,7 +52,7 @@ Explore **Kotlin** to build native Android apps.
 ---
 
 #### 🤖 **AI/ML**  
-Understand the basics of **Python**, **NumPy**, **Pandas**, **Seaborn**, and **Matplotlib** for data manipulation and visualization.  
+Understand the basics of **Python** and explore the domain of AI/ML.  
 - [👉 Task: Comming Soon]()  
 
 ---
