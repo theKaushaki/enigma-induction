@@ -32,13 +32,13 @@ Candidates who perform well in the tasks will advance to a personal interview ro
 The induction process will run for **Two weeks** starting from **31st March 2025**. Here's the breakdown:  
 ---
 
-### ✅ **Week 1 (31st March - 2nd April) | Open Source** <img src="./assets/open-source.gif" width="50">  
+### ✅ **Week 1 (1st April - 3rd April) | Open Source** <img src="./assets/open-source.gif" width="50">  
 Kick off your journey by mastering the basics of **Git & GitHub**. All necessary resources will be provided.  
 - [👉 Task: Git Basics](./Open_Source/README.md)
 
 ---
 
-### 🌐 **Week 2 (2nd - 9th April) | Domain Wise Task** <img src="./assets/web-dev.gif" width="50">  
+### 🌐 **Week 2 (3rd - 9th April) | Domain Wise Task** <img src="./assets/web-dev.gif" width="50">  
 Explore the world of **Web Development**, **App Development**, and **AI/ML** by diving into foundational concepts and hands-on tasks. 
 
 #### 🚀 **Web Development**  

@@ -80,7 +80,7 @@ git push origin main
 Ask questions in the [**Open Source**](https://discord.com/channels/1352736519265456182/1355113053602975864) channel on our **Discord** server!
 
 ## ⏳ **Important Dates**
-**Deadline:** 31st March – 2nd April 2025
+**Deadline:** 1st April – 3rd April 2025
 
 ## 🎉 **Final Notes**
 - Double-check your file before submitting
